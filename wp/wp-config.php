@@ -22,7 +22,7 @@ define('DB_NAME', 'scroungr');
 define('DB_USER', 'scroungr');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'k-SH!097Pd');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
