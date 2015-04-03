@@ -1,6 +1,6 @@
 # scroungr.dev
 CSE 201 project, Spring 2015 - Group 7
-
+ 
 Here's what I did on my home computer to get sharing to work:
 
 1) Download Ampps
