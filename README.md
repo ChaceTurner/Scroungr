@@ -28,7 +28,7 @@ Here's what I did on my home computer to get sharing to work:
 
 9) Click Wordpress, click Import
 
-10) Import from path: C:\Program Files (x86)\Ampps\www\scroungr.dev\wp\
+10) Choose "scroungr.dev" domain; Import from path: wp
 
 11) In browser, type in "scroungr.dev/wp/" to see the site and add "wp-admin" to the URL to see the admin page
 
