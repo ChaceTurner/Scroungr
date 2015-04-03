@@ -4,8 +4,11 @@ CSE 201 project, Spring 2015 - Group 7
 Here's what I did on my home computer to get sharing to work:
 
 1) Download Ampps
+
 2) Download Git Windows Client
+
 3) Clone the scroungr.dev repository to: C:\Program Files (x86)\Ampps\www
+
 4) Open up Ampps by typing "localhost/Ampps" into the web browser
 5) Add a domain called "scroungr.dev" to path: C:\Program Files (x86)\Ampps\www\scroungr.dev
 5) In phpMyAdmin, go to Users
