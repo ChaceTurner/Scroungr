@@ -1,0 +1,38 @@
+~ Windows Store Apps ~
+Initial List by trygstjj -- John Trygstad
+
+Name: Autodesk SketchBook
+Developer: Autodesk Inc., 2015
+Platforms: Windows Tablet
+Versions/Applicable OS: Windows 8.1
+Price: Free
+Link: http://apps.microsoft.com/windows/en-us/app/95d1acfb-4d64-487a-9e20-8d6f6d41cb54?OCID=Apps_O_WOL_FavTile_App_FA_Sketchbook_Pos1
+
+Name: Halo: Spartan Assault
+Developer: Microsoft Studios, 2013
+Platforms: Windows Phone, PC, Tablet
+Versions/Applicable OS: Windows 8.1
+Price: $4.99
+Link: http://apps.microsoft.com/windows/en-us/app/halo-spartan-assault/8fe2d694-baa2-4011-99c0-3a22216223bb
+
+Name: Mint
+Developer: Intuit, Inc., 2013
+Platforms: Windows Phone, PC
+Versions/Applicable OS: Version 1.01, Windows 8.1
+Price: Free
+Link: http://www.windowsphone.com/en-us/store/app/mint/7b5bbe58-6089-41a4-909e-f0089fda5dce
+
+Name: Guitar Tuna
+Developer: Ovelin, 2015
+Platforms: Windows Phone
+Version: 3.2.1.0, Windows 8, Windows 8.1
+Price: Free
+Link: http://www.windowsphone.com/en-us/store/app/guitar-tuna-the-ultimate-free-tuner-metronome/10cb5b4c-e04d-40be-8163-ad93477b19b6
+
+Name: Star Chart
+Developer: Escape Velocity Limited, 2012
+Platforms: PC, Windows Tablet
+Version: Windows 8.1
+Price: Free
+Link: http://apps.microsoft.com/windows/en-us/app/star-chart/6df7e745-782f-44e7-b408-6259a8da6a7f
+
