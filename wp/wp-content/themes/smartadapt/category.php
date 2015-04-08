@@ -13,7 +13,7 @@ get_header();
 
     <?php if (have_posts()) : ?>
     <header class="archive-header">
-        <h1 class="archive-title"><?php printf(__('Category Archives: %s', 'smartadapt'), '<span>' . single_cat_title('', false) . '</span>'); ?></h1>
+        <h1 class="archive-title"><?php printf(__('Platform Selected: %s', 'smartadapt'), '<span>' . single_cat_title('', false) . '</span>'); ?></h1>
 
         <?php if (category_description()) : // Show an optional category description ?>
         <div class="archive-meta"><?php echo category_description(); ?></div>
