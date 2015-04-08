@@ -1109,7 +1109,7 @@ function usp_render_form() {
 									<select name="usp_options[usp_title]">
 										<option <?php if ($usp_options['usp_title'] == 'show') echo 'selected="selected"'; ?> value="show"><?php _e('Show', 'usp'); ?></option>
 										<option <?php if ($usp_options['usp_title'] == 'hide') echo 'selected="selected"'; ?> value="hide"><?php _e('Hide', 'usp'); ?></option>
-									</select> <span><?php _e('Post Title', 'usp'); ?></span>
+									</select> <span><?php _e('App Name', 'usp'); ?></span>
 								</li>
 								<li>
 									<select name="usp_options[usp_tags]">

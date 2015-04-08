@@ -33,17 +33,17 @@
         <!-- .entry-header -->
         <div class="row">
             <div class="columns sixteen">
-                <?php
+                   <?php
 							$featured_image = get_featured_image( 'single-post-small' );
 							$post_format = get_post_format();
                 if ('' != get_the_post_thumbnail()) {
                     ?>
                     <div class="thumbnail-outer format-ico <?php echo $post_format.'post-ico' ?>"><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('single-post-small'); ?></a></div>
-
+			
                     <?php
-                }else if ( ! empty( $featured_image ) ) {
+               }else if ( ! empty( $featured_image ) ) {
 									?>
-									  <div class="thumbnail-outer format-ico <?php echo $post_format.'post-ico' ?>"><a href="<?php the_permalink(); ?>"><?php echo $featured_image; ?></a></div>
+									  									
 										<?php
 								}
 
@@ -68,7 +68,7 @@
             <div class="row">
                <?php if(has_tag()): ?>
                 <div class="left columns sixteen tags-article"><i
-                    class="icon-tags icon-left"></i> <?php the_tags(__('Tags: ', ', ')); ?></div>
+                    class="icon-tags icon-left"></i> <?php the_tags(__('Platforms: ', ', ')); ?></div>
 							 <?php endif; ?>
             </div>
 

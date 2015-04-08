@@ -47,8 +47,8 @@ if ($usp_options['disable_required']) {
 		<?php } if ($usp_options['usp_title'] == 'show') { ?>
 		
 		<fieldset class="usp-title">
-			<label for="user-submitted-title"><?php _e('Post Title', 'usp'); ?></label>
-			<input name="user-submitted-title" type="text" value="" placeholder="<?php _e('Post Title', 'usp'); ?>"<?php echo $required; ?> class="usp-input">
+			<label for="user-submitted-title"><?php _e('App Name', 'usp'); ?></label>
+			<input name="user-submitted-title" type="text" value="" placeholder="<?php _e('Insert App Name Here', 'usp'); ?>"<?php echo $required; ?> class="usp-input">
 		</fieldset>
 		<?php } if ($usp_options['usp_tags'] == 'show') { ?>
 		
@@ -100,8 +100,8 @@ if ($usp_options['disable_required']) {
 			</div>
 			<?php } else { ?>
 				
-			<label for="user-submitted-content"><?php _e('Post Content', 'usp'); ?></label>
-			<textarea name="user-submitted-content" rows="5" placeholder="<?php _e('Post Content', 'usp'); ?>"<?php echo $required; ?> class="usp-textarea"></textarea>
+			<label for="user-submitted-content"><?php _e('App Information', 'usp'); ?></label>
+			<textarea name="user-submitted-content" rows="5" placeholder="<?php _e('Insert App Information Here', 'usp'); ?>"<?php echo $required; ?> class="usp-textarea"></textarea>
 			<?php } ?>
 			
 		</fieldset>
@@ -159,7 +159,7 @@ if ($usp_options['disable_required']) {
 			<input class="usp-hidden exclude" type="hidden" name="user-submitted-category" value="<?php echo $usp_options['usp_use_cat_id']; ?>">
 			<?php } ?>
 			
-			<input class="exclude" name="user-submitted-post" id="user-submitted-post" type="submit" value="<?php _e('Submit Post', 'usp'); ?>">
+			<input class="exclude" name="user-submitted-post" id="user-submitted-post" type="submit" value="<?php _e('Submit App Request', 'usp'); ?>">
 			<?php wp_nonce_field('usp-nonce', 'usp-nonce', false); ?>
 		</div>
 		<?php endif; ?>
